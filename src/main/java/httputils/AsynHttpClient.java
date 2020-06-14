@@ -21,7 +21,7 @@ import org.slf4j.LoggerFactory;
 import java.util.List;
 
 /**
- * @Description:
+ * @Description: 具体的AsynHttpClient
  * @Author: shenpeng
  * @Date: 2020-05-28
  */

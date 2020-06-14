@@ -5,7 +5,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.util.Base64Utils;
 
 /**
- * @Description:
+ * @Description: 维护HttpClinet，分为ios的和其它的两类
  * @Author: shenpeng
  * @Date: 2020-06-05
  */
